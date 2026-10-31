@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# IDE
+.vscode/
